@@ -1,5 +1,5 @@
 CREATE TABLE groceries (
 id INTEGER PRIMARY KEY,
-name TEXT,
+title TEXT,
 quantity INTEGER,
 aisle INTEGER);
